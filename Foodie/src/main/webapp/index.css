@@ -1,0 +1,9 @@
+
+.card-body.btn-primary, .card-body.btn-primary:hover, .card-body.btn-primary:active, .btn-primary:visited {
+       background-color: #ea0505 !important;
+   		border: none;
+}
+.btn-primary, .btn-primary:hover, .btn-primary:active, .btn-primary:visited {
+       background-color: #ea0505 !important;
+   		border: none;
+}
